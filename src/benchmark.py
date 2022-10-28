@@ -1,2 +1,2 @@
-print('Hello in Github Actions')
+print('Hello in Github Actions dla grupy 5')
 #comment
