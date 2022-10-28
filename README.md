@@ -24,4 +24,6 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
     Add as many paragraphs as you like.
 
-This is a funny [picture/git.jpg](picture/git.jpg)
+This is a funny picture
+
+![picture/git.jpg](picture/git.jpg)
