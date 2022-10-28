@@ -15,7 +15,7 @@ permissions:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: alpine-latest
 
     steps:
     - uses: actions/checkout@v3
@@ -23,7 +23,7 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: "3.10"
-    - name: Install dependencies
+    - name: Run python application
       run: |
         python src/benchmark.py
     
