@@ -1,2 +1,2 @@
-printf('Hello in Github Actions dla grupy 2')
+print('Hello in Github Actions dla grupy 1')
 #comment
